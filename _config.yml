@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "John J. Lee"
-  pronouns         : # example: "he/him"  
-  bio              : ""My senior thesis project is focused on processing multichannel seismic (MCS) reflection data to image the distribution of upper mantle serpentinization in the Mariana subduction zone system.""
+  pronouns         : "he/him"  
+  bio              : "My senior thesis project is focused on processing multichannel seismic (MCS) reflection data to image the distribution of upper mantle serpentinization in the Mariana Trench subduction zone."
   location         : "Chestnut Hill, MA"
   employer         : "Boston College"
   uri              : # URL
