@@ -8,4 +8,4 @@ From Feb 2020 to Aug 2020, I showed up to Seodaemun MNH every weekend to explain
 While resuming the museum docent service, I was invited from the Curatorial Affairs to contribute a full-page feature article (in Korean) as a senior museum docent to introduce my journey in geological sciences and to give educational advice to young children. This was published as a museum's public magazine called Nature and Natural History No. 77 as 20th Anniversary Special Edition, titled “Traveling through Earth History” on June 30, 2023. 
 <br/><p align='center'><img src='/images/docentarticle.png' width='80%'></p>
 
-* 📄 **Original Article (Korean):** [Download Original Article (PDF)](/files/docentarticle_kor.pdf)
+* **Original Article (Korean):** [Download Original Article (PDF)](/files/docentarticle_kor.pdf)
