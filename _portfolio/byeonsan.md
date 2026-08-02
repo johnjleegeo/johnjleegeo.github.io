@@ -1,6 +1,6 @@
 ---
 title: "Jip-hyeon-Jae Student Research Symposium (2018.07)"
-excerpt: "I investigated the Mesozoic sedimentation and volcanic activity of the Byeonsanbando National Park, South Korea <br/><img src='/images/bsan.png'>"
+excerpt: "I investigated the Mesozoic sedimentation and volcanic activity of the Byeonsanbando National Park, South Korea <br/><img src='/images/bsan1.png'>"
 collection: portfolio
 ---
 
